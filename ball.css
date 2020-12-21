@@ -1,0 +1,23 @@
+body {
+    overflow: hidden;
+    margin: 0;  
+  }
+  
+  h1 {
+    font-family: Arial;
+    font-size: 30px;
+    position: absolute;
+    margin: 0;
+    top: -1px;
+    right: 5px;
+    color: white; 
+  }
+  
+  p {
+    position: absolute;
+    margin: 0;
+    font-family: Arial;
+    top: 35px;
+    right: 5px;
+    color: #aaa;
+  }
